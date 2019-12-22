@@ -1,0 +1,3 @@
+C:/Users/Acer/Desktop/Odev/OpenGL/build/CMakeFiles/YilanOyunu.dir
+C:/Users/Acer/Desktop/Odev/OpenGL/build/CMakeFiles/edit_cache.dir
+C:/Users/Acer/Desktop/Odev/OpenGL/build/CMakeFiles/rebuild_cache.dir
